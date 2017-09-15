@@ -1,0 +1,7 @@
+#Fri Sep 15 12:27:54 WAT 2017
+base.0=C\:\\Users\\Egbanubi\\Desktop\\LagosJavaDeveloper-20170907T131230Z-001\\LagosJavaDeveloper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6f26fe5601155e1083cc94293091789cde489179
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Egbanubi\\Desktop\\LagosJavaDeveloper-20170907T131230Z-001\\LagosJavaDeveloper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_551071cc6cff2e94c3caa665a4e12ea8990be6f6\\classes.dex
+base.1=C\:\\Users\\Egbanubi\\Desktop\\LagosJavaDeveloper-20170907T131230Z-001\\LagosJavaDeveloper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_551071cc6cff2e94c3caa665a4e12ea8990be6f6
+file.0=C\:\\Users\\Egbanubi\\Desktop\\LagosJavaDeveloper-20170907T131230Z-001\\LagosJavaDeveloper\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6f26fe5601155e1083cc94293091789cde489179\\classes.dex

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c38395b234a83ab8942db435fb3c516bd5b46dd">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_551071cc6cff2e94c3caa665a4e12ea8990be6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\a72a9e453f4ba94e2aee066fb199f616bedebf59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_7500fd2f237b9c7eb68b34e010a9e401e5e3a19c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_88d25750364c5dfd983c40b2b4bcdb0a53e22b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\1adb6b17c29bf4370036475f738d6823f4d3dccc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_81bc77f5045a030d91b460cb5f730c257aba06a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\f82f05dac2cfe78f4f5cc7bc3f01576ad768cec6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_dd62c226690727dd6d1169b6041059aa78c08b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\4d18bc6a10d2b817b34c8f85b1cbb00c9b0214f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_836a29066bd818d864a1efa5f0eb0280f6cbdd72.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6f26fe5601155e1083cc94293091789cde489179\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\d31b4dfe2ccd0afec5ba5399d824f9f7294df822\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_2174ec72afd53eaee719b1ecc473dbcb90a2947e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\okio-1.13.0_2207371e61d8ef7024b104643f421498c8764f8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\c592dd9489b18c9c8f62ae819774e0cf80dc12f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_c92ceaa8ba6262dfbfa065c158dab27b44e9ec91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\c2df980749c5e53a2d33e92f26beda701ae0c453\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_d23206fadcb5b8e434ad5c7c347cbe4b54ea4f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\96242a8d1f7006683cc2339047183cbcaf5965a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_a71877353dd9e556038d246dc7df837a261d69f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\d164ace17251235e6e448896b1aa79106ca39994\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_7f840f7e5280b93ad8f8b0b0188eb7b98825a5bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\67869790898cb2be5673144b1ea2c578969e6f3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_35ce18bfda3cf169a713f41ba883615adeb53c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f9b5f5034312f5c3ed86627251443561b86bae2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a2af3688943c06169f046d86a1ae44c60a42cc56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\ffc71eff5391ef341c1a4d127a54bd9367ba8ece\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_120b04a533f80abe78bc0eff792abbeac0f3f497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\41e4dd9be25a25ef2597f547d58ae6c22f81a594\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0eadf41c70dcae4f04ef19b89e19ea47ca95cc45">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_22f557c73a26bcd763f481acc85f6544e1693b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\9508c23b52383d17f3911cc0b1fa81377d2eb590\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_2fe8bf9d2a8e49eea3594fccf764c2be5dccfaa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\947a8d92f9a1a93b0eef27dbaab9c6596fcac0b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_fc13750b19a240f9537ae25b2fe05243021d3eec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_efb990c1b3324e89b4b47b51067654d02bf06ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Egbanubi\.android\build-cache\eb4813367582a55115c5990bad9ff5c5a4fd6306\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Egbanubi\Desktop\LagosJavaDeveloper-20170907T131230Z-001\LagosJavaDeveloper\app\build\intermediates\pre-dexed\debug\classes_0bb5f0a1108f2cb54aba789f9cd61d469fce91d9.jar" />
+    </item>
+
+</items>

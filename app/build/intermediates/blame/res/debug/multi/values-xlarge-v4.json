@@ -1,0 +1,240 @@
+[
+    {
+        "outputFile": "C:\\Users\\LPG_OPS\\AndroidStudioProjects\\LagosJavaDeveloper\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "C:\\Users\\LPG_OPS\\.android\\build-cache\\7a597d4915b1820af57e6cbd244b646b0626aec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 70,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\LPG_OPS\\.android\\build-cache\\7a597d4915b1820af57e6cbd244b646b0626aec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 70,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 69,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\LPG_OPS\\.android\\build-cache\\7a597d4915b1820af57e6cbd244b646b0626aec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 69,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 69,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "C:\\Users\\LPG_OPS\\.android\\build-cache\\7a597d4915b1820af57e6cbd244b646b0626aec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 69,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 67,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "C:\\Users\\LPG_OPS\\.android\\build-cache\\7a597d4915b1820af57e6cbd244b646b0626aec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 67,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 67,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\Users\\LPG_OPS\\.android\\build-cache\\7a597d4915b1820af57e6cbd244b646b0626aec6\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 67,
+                        "endOffset": 468
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Egbanubi\\Desktop\\LagosJavaDeveloper-20170907T131230Z-001\\LagosJavaDeveloper\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "C:\\Users\\Egbanubi\\.android\\build-cache\\d164ace17251235e6e448896b1aa79106ca39994\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 70,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "C:\\Users\\Egbanubi\\.android\\build-cache\\d164ace17251235e6e448896b1aa79106ca39994\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 70,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 69,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "C:\\Users\\Egbanubi\\.android\\build-cache\\d164ace17251235e6e448896b1aa79106ca39994\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 69,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 69,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "C:\\Users\\Egbanubi\\.android\\build-cache\\d164ace17251235e6e448896b1aa79106ca39994\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 69,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 67,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "C:\\Users\\Egbanubi\\.android\\build-cache\\d164ace17251235e6e448896b1aa79106ca39994\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 67,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 67,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\Users\\Egbanubi\\.android\\build-cache\\d164ace17251235e6e448896b1aa79106ca39994\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 67,
+                        "endOffset": 468
+                    }
+                }
+            }
+        ]
+    }
+]
